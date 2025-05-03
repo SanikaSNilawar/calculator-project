@@ -1,0 +1,26 @@
+#calculator{
+  border : 2px solid rgb(106, 105, 105);
+  border-radius: 5px;
+  width:200px;
+}
+
+#text{
+  margin :10px;
+  width: 85%;
+  font-size:20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.button-container{
+  display:flex;
+  justify-content:center;
+  flex-wrap: wrap;
+}
+
+.button-class{
+  height:50px;
+  width:50px;
+  border-radius:5px;
+  border-color: rgb(137, 132, 132);
+  margin:2px;
+  
+}
